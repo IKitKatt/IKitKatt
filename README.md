@@ -6,7 +6,7 @@ Systems Analyst
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [mail@homecrow.ru](mailto:mail@homecrow.ru)
-* 🚀  I'm currently working im [Meridian](http://https://meridianooo.ru/)
+* 🚀  I'm currently working im [Meridian](https://meridianooo.ru/)
 * 🧠  I'm currently learning ML + LLM in RUDN
 
 
